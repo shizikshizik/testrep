@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 test changest
-äîáàâëÿåì èçìèíåíèÿ
+Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Ð¸Ð·Ð¼Ð¸Ð½ÐµÐ½Ð¸Ñ
+=======
+>>>>>>> parent of 8982c76... Signed-off-by: shizikshizik <shizik666@gmail.com>
