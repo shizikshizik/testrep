@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 test changest
 добавляем изминения
+еще раз изменяем содержимое
 =======
 >>>>>>> parent of 8982c76... Signed-off-by: shizikshizik <shizik666@gmail.com>
